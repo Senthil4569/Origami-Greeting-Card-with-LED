@@ -41,6 +41,6 @@ basic electric component
 * The connections were secured using cello tape.
 
 **CIRCUIT DIAGRAM**  
-![circit diagram](circit diagram.jpeg)  
+![circit diagram](circitdiagram.jpeg)  
 **PROJECT**
-![project result](project result.jpeg)
+![project result](projectresult.jpeg)
